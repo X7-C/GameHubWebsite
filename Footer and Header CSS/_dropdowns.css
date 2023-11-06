@@ -1,0 +1,53 @@
+.dropdown {
+    position: relative;
+}
+
+.dropdown nav {
+    position: absolute;
+}
+
+.dropdown ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.featured ul {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+
+.dropdown {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 0.5%;
+    border-radius: 2%;
+
+    
+}
+.dropdown {
+    position: relative;
+}
+
+.dropdown #selectCategory {
+
+    position: absolute;
+    
+}
+
+
+#sizeCategory {
+    font-size: 100%;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.dropdown summary {
+    list-style: none;
+
+}
+

@@ -1,0 +1,124 @@
+@media screen and (max-width: 1200px) {
+    header button.burger, header button.searchIcon {
+        display: block;
+    }
+    header details#menu, details#selectCategory {
+        display: none;
+    }
+
+    .shoppingIcon {
+        display: none;
+    }
+
+    .searchIconPc {
+        display: none;
+    }
+
+    .shopping-cart-container {
+        display: flex;
+        align-items: center;
+        overflow: hidden; 
+    }
+    .userIcon {
+        display: none;
+    }
+
+    .SignNRegister {
+        display: none;
+    }
+
+    .blue-footer {
+        background-color: #008FDF;
+        color: #fff;
+        padding: 1vw 0;
+        text-align: center;
+    }
+    .black-footer {
+        background-color: #000000;
+        color: #fff;
+        padding: 1vw 0;
+        text-align: center;
+    }
+    
+
+
+}
+@media screen and (max-width: 1200px) {
+    header button.burger, header button.searchIcon {
+        display: block;
+    }
+    header details#menu, details#selectCategory {
+        display: none;
+    }
+
+    .shoppingIcon {
+        display: none;
+    }
+
+    .searchIconPc {
+        display: none;
+    }
+
+    .shopping-cart-container {
+        display: flex;
+        align-items: center;
+        overflow: hidden; 
+    }
+    .userIcon {
+        display: none;
+    }
+
+    .SignNRegister {
+        display: none;
+    }
+
+    .blue-footer {
+        background-color: #008FDF;
+        color: #fff;
+        padding: 1vw 0;
+        text-align: center;
+    }
+    .black-footer {
+        background-color: #000000;
+        color: #fff;
+        padding: 1vw 0;
+        text-align: center;
+    }
+    
+
+
+}
+@media screen and (max-width: 768px) {
+    .blue-footer .iconfooter {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .black-footer {
+        display: block;
+    }
+
+}
+
+@media screen and (min-width:768px) {
+    .middlePhoneIcon {
+        display: none;
+    }
+}
+
+
+
+@media screen and (min-width: 1000px) {
+    .black-footer {
+        display: block;
+    }
+
+}
+
+@media screen and (min-width:768px) {
+    .middlePhoneIcon {
+        display: none;
+    }
+}
+

@@ -1,0 +1,15 @@
+-Make header 
+-Make footer
+-Make linkage to every page.
+-Copy index.html Main Header and Footer HTML to other links.
+- Make Home page
+- Make Contact Us page
+- Make About Us page
+- Make payment page
+- Make Checkout Success page
+- Make checkout page
+- Make (selected game page.)
+
+(Alternatives)
+
+- Clean up the code, using own supervision and help with GPT.
